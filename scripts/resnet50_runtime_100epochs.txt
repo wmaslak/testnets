@@ -1,0 +1,1 @@
+ResNet50 total runtime with 100 epochs on full dataset is: 41158.51797056198

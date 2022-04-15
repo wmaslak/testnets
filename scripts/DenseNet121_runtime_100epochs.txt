@@ -1,0 +1,1 @@
+DenseNet121 total runtime with 100 epochs on full dataset is: 39697.09873962402

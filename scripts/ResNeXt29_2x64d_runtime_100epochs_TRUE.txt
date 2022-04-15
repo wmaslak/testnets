@@ -1,0 +1,1 @@
+ResNeXt29_2x64d total runtime with 45 !!!!!!!!!!!!!!!!!!! epochs on full dataset is: 36990.30032634735
